@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\mineducyt\desktop\progra2\evaluacion1\main.cpp
+	<iostream>
+
+1711136611 source:c:\users\mineducyt\desktop\progra2\evaluacion1\src\pago.cpp
+	"Pago.h"
+
+1711136610 c:\users\mineducyt\desktop\progra2\evaluacion1\include\pago.h
+
+1711136631 source:c:\users\mineducyt\desktop\progra2\evaluacion1\src\prestamo.cpp
+	"Prestamo.h"
+
+1711136631 c:\users\mineducyt\desktop\progra2\evaluacion1\include\prestamo.h
+
+1710954549 source:c:\users\mineducyt\desktop\progra2\evaluacion1\src\cliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1711137655 c:\users\mineducyt\desktop\progra2\evaluacion1\include\cliente.h
+	<string>
+
